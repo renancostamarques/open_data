@@ -1,5 +1,4 @@
-﻿https://english.wunderground.com/history/airport/KARB/2014/1/1/CustomHistory.html?dayend=31&monthend=12&yearend=2014&req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=;;;;;;;;;;;;;;;;;;;;
-Date;Temp_high;Temp_avg;Temp_low;Dew_high;Dew_avg;Dew_low;Humid_perc_high;Humid_perc_avg;Humid_perc_low;P_high_hPa;P_avg_hPa;P_low_hPa;visibility_high_km;visibility_avg_km;visibility_low_km;wind_min_kmh;wind_avg_kmh;wind_high_kmh;Precip_mm;Events
+﻿Date;Temp_high;Temp_avg;Temp_low;Dew_high;Dew_avg;Dew_low;Humid_perc_high;Humid_perc_avg;Humid_perc_low;P_high_hPa;P_avg_hPa;P_low_hPa;visibility_high_km;visibility_avg_km;visibility_low_km;wind_min_kmh;wind_avg_kmh;wind_high_kmh;Precip_mm;Events
 01/01/2014;-9;-10;-11;-12;-13;-14;86;82;77;1029;1026;1022;13;4;1;13;23;-;1.52;Snow
 02/01/2014;-9;-13;-16;-12;-14;-21;85;78;66;1026;1020;1017;16;4;1;23;35;50;0.25;Snow
 03/01/2014;-12;-17;-22;-18;-21;-24;83;66;51;1031;1028;1022;16;16;16;13;27;35;0.00;
